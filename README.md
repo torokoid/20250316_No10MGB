@@ -219,10 +219,12 @@ p.note { display: none; }
 <h2><span class="yellow">以上、アキラックスさんの曲１つ、まいてゃさんの曲５つだけ収録できましたが、全部曲の頭が切れちゃってます。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
+
+<!--
 <h2><span class="yellow">
 <a href="https://torokoid.github.io/20241126_chiangrai/" target="_blank">Back to the menu page</a>
 </span></h2>
-
+-->
 
 <br><br><br>
 
