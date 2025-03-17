@@ -73,7 +73,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20250312_16_tochigi/20250316_007.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20250316_No10MGB/youseikyo.png) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -118,7 +118,7 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="youseikyo.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_2025Mar_youseikyo.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
